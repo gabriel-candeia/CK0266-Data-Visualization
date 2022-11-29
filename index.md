@@ -6,6 +6,7 @@ Repositório para as atividades de visualização de dados envolvendo a bibliote
 ## Exercícios
 - [Vega-Lite Api - Exercícios - 2022](Vega-Lite-Api-Exercícios-2022/README.md)
 - [Visualização de Crimes em Chicago usando Vega-Lite](Visualização-de-Crimes-em-Chicago-usando-Vega-Lite/README.md)
+- [Trabalho final](Trabalho-Final/site/index.html)
 
 
 ## Teste
